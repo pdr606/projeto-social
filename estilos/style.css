@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background-image:linear-gradient(#97dbc5ab, #91C4A6, #97db9f4f);
+    
 }
 
 main{
@@ -24,7 +24,7 @@ main{
 section#telefone{
     position: absolute;
     top: 50%;
-    left: 43%;
+    left: 50%;
     transform: translate(-50%, -50%);
 
     height: 627px;
